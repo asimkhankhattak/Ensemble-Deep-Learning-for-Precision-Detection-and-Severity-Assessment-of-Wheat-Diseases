@@ -2,7 +2,7 @@
 
 🔗 Availability of Code and Dataset
 
-Source Code (GitHub DOI): DOI: xxxx (replace after Zenodo DOI generation)
+Source Code (GitHub DOI): [![DOI](https://zenodo.org/badge/1104394255.svg)](https://doi.org/10.5281/zenodo.17726310)
 
 Dataset : https://www.kaggle.com/datasets/tolgahayit/yellowrust19-yellow-rust-disease-in-wheat
 
